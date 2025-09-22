@@ -1,16 +1,36 @@
-## Hi there 👋
+![Header](https://github.com/JustDonni/JustDonni/blob/main/assets/githubpicture.jpg)
 
-<!--
-**JustDonni/JustDonni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there!
 
-Here are some ideas to get you started:
+I’m a self-taught systems programming enthusiast diving deep into how computers really work — from CPU boot to kernel space.  
+Currently learning to build my own operating system, write drivers, compilers, and low-level Linux tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about exploring internals, experimenting with code, and understanding how everything works "under the hood".
+
+---
+
+## 🛠️ Tech Stack
+
+- 🔧 Languages: Pascal · C · Rust · Assembly (NASM)
+- 💻 Systems: OSDev · drivers · compilers
+- 🐧 Linux: EndeavourOS (Hyprland) · ricing & performance tuning
+- 🌐 Tools: NVchad · QEMU · Git · Makefile · Ranger (File Manager), VScode
+
+---
+
+## 🚀 What I’m working on
+
+- ✏️ Learning systems programming (Pascal as first language → then C/ASM/Rust)
+- ⚙️ Writing a simple OS
+- 🔐 Exploring cybersecurity basics
+
+---
+
+## 📫 Get in touch
+
+- E-mail → ShraderMail@proton.me 
+- Open to ideas & collabs → just open an issue!
+
+---
+
+⭐ If you’re into systems programming & Linux, let’s connect and share knowledge!
