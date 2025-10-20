@@ -13,8 +13,8 @@ Currently learning to build my own operating system, write drivers, compilers, a
 
 - 🔧 Languages: Pascal · C · Rust · Assembly (NASM)
 - 💻 Systems: OSDev · drivers · compilers
-- 🐧 Linux: EndeavourOS (Hyprland) · ricing & performance tuning
-- 🌐 Tools: NVchad · QEMU · Git · Makefile · Ranger (File Manager), VScode
+- 🐧 Linux: CachyOS (Hyprland) · ricing & performance tuning
+- 🌐 Tools: AstroNvim · QEMU · Git · Makefile · Ranger (File Manager), VScode
 
 ---
 
@@ -28,7 +28,7 @@ Currently learning to build my own operating system, write drivers, compilers, a
 
 ## 📫 Get in touch
 
-- E-mail → ShraderMail@proton.me 
+- E-mail → ShraderMail@proton.me
 - Open to ideas & collabs → just open an issue!
 
 ---
