@@ -1,16 +1,25 @@
-## Hi there 👋
+![Header](https://github.com/JustDonni/JustDonni/blob/main/assets/githubpicture.jpg)
 
-<!--
-**JustDonni/JustDonni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there!
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developing low-level software: operating systems, drivers, and compilers.  
+Exploring how computers work at the hardware level.
+
+## Technologies
+
+- **Languages:** C, C++, NASM Assembly
+- **OS:** EndeavourOS (Hyprland)
+- **Tools:** QEMU, Git, Make, AstroNvim, VScode
+
+## Current Projects
+
+- Building a custom operating system from scratch
+- Learning systems programming internals
+- Experimenting with low-level Linux tools
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustDonni&show_icons=true&theme=dark)
+
