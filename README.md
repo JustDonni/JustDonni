@@ -19,7 +19,3 @@ Exploring how computers work at the hardware level.
 - Learning systems programming internals
 - Experimenting with low-level Linux tools
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustDonni&show_icons=true&theme=dark)
-
